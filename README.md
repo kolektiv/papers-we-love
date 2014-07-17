@@ -9,8 +9,12 @@ Repository related to the following meetups:
 * [Colorado - Papers We Love](http://www.meetup.com/Papers-We-Love-Boulder/)
 * [Ohio - Papers We Love](http://www.meetup.com/Papers-We-Love-Columbus/)
 * [Berlin - Papers We Love](http://www.meetup.com/Papers-We-Love-Berlin/)
+* [Pune - Papers We Love @doothings] (http://www.meetup.com/Doo-Things)
+* [Boston - Papers We Love](http://www.meetup.com/Papers-We-Love-Boston/)
 
 Let us know if you are interested in starting a [chapter](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter)!
+
+All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ### Past Presentations
 
@@ -40,6 +44,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [netlib](http://www.netlib.org/)
 * [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering)
 * [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
+* [Gradual Typing Bibliography](http://samth.github.io/gradual-typing-bib/)
 
 Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-of-Reading-Material) for links to blogs, books, exchanges that are worth a good read.
 
